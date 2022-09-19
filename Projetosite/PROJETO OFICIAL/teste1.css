@@ -1,0 +1,139 @@
+h1 {
+    color: white;
+    font-size: 70px;
+    font-family: tahoma;
+    padding-top: 30px;
+}
+
+#container1 {
+    background: #966547;
+    height: 300px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+#container2 {
+    background: #6b4833;
+    position: absolute;
+    margin-top: 200px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+a {
+    font-size: 20px;
+    color: white;
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    text-decoration: none;
+    font-family: tahoma;
+}
+
+a.link1:hover {
+    font-size: 20px;
+    color: #6b4833;
+    background: white;
+    border: black 1px solid;
+}
+
+ul {
+    list-style: none;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+}
+
+#container3 {
+    display: flex;
+
+}
+
+.titulo1 {
+    font-size: 20px;
+    font-family: tahoma;
+    color: white;
+    background: #6b4833;
+    width: 400px;
+    text-indent: 40px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.titulo2 {
+    font-size: 20px;
+    font-family: tahoma;
+    color: white;
+    background: #6b4833;
+    width: 400px;
+    text-indent: 40px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.titulo3 {
+    font-size: 20px;
+    font-family: tahoma;
+    color: white;
+    background: #6b4833;
+    width: 400px;
+    text-indent: 40px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+a.link2:hover {
+    color: black;
+    background: #6b4833;
+    font-size: 25px;
+}
+
+#container4 {
+    height: 750px;
+    width: 300px;
+    background: #966547;
+    margin-left: 60em;
+    margin-top: 30px;
+    padding: 20px 20px 20px 20px;
+    position: absolute;
+    display: inline-block;
+    align-items: top;
+    border-radius: 15px;
+}
+ 
+.p1 {
+    margin-top: 30px;
+    font-size: 30px;
+    font-family: tahoma;
+    padding: 10px 10px 10px 10px;
+    color: white;
+}
+
+.p2 {
+    align-items: center;
+    text-align: center;
+    font-family: tahoma;
+    background:#6b4833;
+    color: white;
+    border: solid black 1px;
+    border-radius: 15px;  
+}
+
+a.link3 {
+    padding-left: 5px;
+}

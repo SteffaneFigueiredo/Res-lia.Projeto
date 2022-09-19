@@ -1,0 +1,51 @@
+#parent {
+    position: relative;
+    display: flex;
+}
+.menu {
+    position: absolute;
+    display: flex;
+    background: white;
+    width: 78em;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.titulo {
+    position: absolute;
+    display: flex;
+    width: 300px;
+    margin-top: 250px;
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: tahoma;
+    color: white;
+}
+
+.trabalho1 {
+    position: absolute;
+    display: flex;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+
+a {
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: tahoma;
+    color: black;
+    padding: 30px;
+    margin: 10px;
+}
+a.linkum:hover, a.linkdois:hover, a.linktres:hover, a.linkquatro:hover {
+    background: rgb(22, 17, 71);
+    color: white;
+}
+
+.nome:hover {
+    font-size: 55px;
+}
+
